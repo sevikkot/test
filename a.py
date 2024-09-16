@@ -1,3 +1,4 @@
 print('hello, please write two numbers')
 a=input('1:')
-и=input('2:')
+b=input('2:')
+print('summ:',a+b)
